@@ -1,0 +1,28 @@
+
+h1{
+    margin-left: 35%;
+}
+#buttons{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+input{
+    background-color: rgb(199, 251, 255);
+    height:25px;
+    border-radius: 8px;
+}
+table{
+    border:1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 8%;
+    width:80%;
+}
+td{
+    border:1px solid black;
+}
+thead{
+    background-color:rgb(253, 255, 151);
+    width:5%;
+}

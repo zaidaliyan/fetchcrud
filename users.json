@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "sai kumar",
+      "branch": "cse",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "aliyan",
+      "branch": "ece"
+    },
+    {
+      "id": "6",
+      "name": "laxmidhar",
+      "branch": "eee"
+    },
+    {
+      "id": "7",
+      "name": "balaji",
+      "branch": "ds"
+    },
+    {
+      "id": "12",
+      "name": "zaid",
+      "branch": "it"
+    },
+    {
+      "name": "zaid",
+      "branch": "cs",
+      "id": "1"
+    },
+    {
+      "id": "40",
+      "name": "tumbru",
+      "branch": "cyber"
+    },
+    {
+      "id": "51",
+      "name": "daku",
+      "branch": "mangalpally"
+    },
+    {
+      "id": "41",
+      "name": "nalli",
+      "branch": "dsa"
+    },
+    {
+      "name": "mittu",
+      "branch": "cse cs",
+      "id": "33"
+    }
+  ]
+}
