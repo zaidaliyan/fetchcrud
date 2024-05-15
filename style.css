@@ -1,28 +1,39 @@
-
-h1{
+/* Adjusting h1 */
+h1 {
     margin-left: 35%;
 }
-#buttons{
-    display:flex;
+
+/* Styling buttons */
+#buttons {
+    display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
-input{
+
+/* Styling input */
+input {
     background-color: rgb(199, 251, 255);
-    height:25px;
+    height: 25px;
     border-radius: 8px;
 }
-table{
-    border:1px solid black;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 8%;
-    width:80%;
+
+/* Styling table */
+table {
+    border-collapse: collapse; /* Collapse borders to remove spacing between cells */
+    margin: 8% auto; /* Center the table horizontally with a margin */
+    width: 80%;
 }
-td{
-    border:1px solid black;
+
+td, th {
+    border: 1px solid black;
+    padding: 8px; /* Add padding for better spacing */
 }
-thead{
-    background-color:rgb(253, 255, 151);
-    width:5%;
+
+thead {
+    background-color: rgb(253, 255, 151);
+}
+
+/* Styling odd rows differently for better readability */
+tr:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.05); /* Light gray background */
 }
