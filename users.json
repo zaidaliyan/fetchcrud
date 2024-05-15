@@ -36,19 +36,19 @@
       "branch": "cyber"
     },
     {
-      "id": "51",
-      "name": "daku",
-      "branch": "mangalpally"
-    },
-    {
-      "id": "41",
-      "name": "nalli",
-      "branch": "dsa"
-    },
-    {
       "name": "mittu",
       "branch": "cse cs",
       "id": "33"
+    },
+    {
+      "id": "32",
+      "name": "patta",
+      "branch": "cyber security"
+    },
+    {
+      "id": "41",
+      "name": "Nalli",
+      "branch": "DSA"
     }
   ]
 }
